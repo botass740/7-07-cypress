@@ -1,0 +1,15 @@
+{
+    "week": ".page-nav__day",
+    "title": ".page-header__title",
+    "movie": ".movie",
+    "adminTitle": ".conf-step__titlee",
+    "stepTitle": "#start-sales > .text-center > .conf-step__button",
+
+    "emailField": "[type='email']",
+    "passField": "[type='password']",
+
+    "scheme": ".buying-scheme__wrapper",
+    "seatPlace": " > :nth-child",
+
+    "button": ".acceptin-button"
+}
