@@ -3,5 +3,6 @@
     "validPass": "qamid",
   
     "invalidEmail": "qamidd@qamid.ru",
-    "invalidPass": "qamidd"
+    "invalidPass": "qamidd",
+    "adminValid": null
 }

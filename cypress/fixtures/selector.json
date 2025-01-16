@@ -1,0 +1,20 @@
+{
+    "week": "a.page-nav__day",
+    "weeks": ".page-nav__day:nth-of-type(3)",
+    "title": ".page-header__title",
+    "movie": ".movie",
+    "adminTitle": ".conf-step__titlee",
+    "stepTitle": "#start-sales > .text-center > .conf-step__button",
+    
+
+    "emailField": "[type='email']",
+    "passField": "[type='password']",
+
+    "scheme": ".buying-scheme__wrapper",
+    "seatRow": " > :nth-child(${seat.row})",
+    "seatSeat": " >:nth-child(${seat.seat})",
+
+    "button": ".acceptin-button",
+    "loginButton": ".login__button",
+    "adminAuthButtonSelector": "input[value='Авторизоваться']"
+}

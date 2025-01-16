@@ -1,8 +1,9 @@
-const selector = require("../fixtures/selectors");
+const url = require("../fixtures/client.json");
+const selector = require("../fixtures/selector");
 
 describe("Отображение главной страницы", () => {
   beforeEach(() => {
-    cy.visit("/");
+    cy.visit(url.clientUrl);
   });
 
   it("Показывает количество дней", () => {
